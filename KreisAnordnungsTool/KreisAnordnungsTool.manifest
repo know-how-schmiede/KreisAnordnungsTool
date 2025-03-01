@@ -6,7 +6,7 @@
 	"description":	{
 		"":	"Erzeugt eine lineare und kreisförmige Anordnung von Kreisen."
 	},
-	"version":	"",
+	"version":	"1.0",
 	"runOnStartup":	false,
 	"supportedOS":	"windows|mac",
 	"editEnabled":	true,
