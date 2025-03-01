@@ -43,7 +43,7 @@ Entpacke das Archiv in einen beliebigen Ordner auf deinem Computer (z. B. „D
 - Im Erstellen-Panel unter Konstruktion erscheint nun im Menu (ganz unten) der neue Eintrag "VersatzebenenTool"
 - Klick darauf, um das Add-In auszuführen
 
-![Tool im Menü](images/VersatzebenenToolMenu.png)
+![Tool im Menü](images/Kreis-Anordnungs-Tool_Menu.png)
 
 ## Tipp:
 - Wenn du das Add-In aktualisierst (z. B. neue Version), wiederhole Schritt 4 bzw. kopiere die aktualisierten Dateien in denselben Ordner.
